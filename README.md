@@ -7,6 +7,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0066-plus-one) |
+| [0496-next-greater-element-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -25,6 +26,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -38,4 +40,12 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0072-edit-distance) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
