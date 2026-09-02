@@ -30,4 +30,12 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0072-edit-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
