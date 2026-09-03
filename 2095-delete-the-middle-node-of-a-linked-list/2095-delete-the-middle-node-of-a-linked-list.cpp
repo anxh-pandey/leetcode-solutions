@@ -20,20 +20,12 @@ public:
         ListNode* f=head;
         int c=0;
         while(f!=NULL && f->next!=NULL){
-            if(s==head){
-                s=s->next;
-                f=f->next->next;
-            }
-            else{
-                s=s->next;
-                f=f->next->next;
-                c++;
-            }
+            s=s->next;
+            f=f->next->next;
         }
         ListNode* temp=head;
-        while(c!=0){
+        while(temp->next!=s){
             temp=temp->next;
-            c--;
         }
         temp->next=temp->next->next;
         return head;
