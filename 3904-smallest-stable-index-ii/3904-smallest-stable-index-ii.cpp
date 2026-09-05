@@ -1,12 +1,11 @@
 class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
-        int ans=INT_MAX;
         int x=nums[0],n=nums[nums.size()-1];   
         vector<int> mn(nums.size());
         vector<int> mx(nums.size());
         for(int i=0;i<nums.size();i++){
-            if(nums[i]>nums[0]){
+            if(nums[i]>x){
                 x=nums[i];
             }
             mx[i]=x;
@@ -19,9 +18,9 @@ public:
         }
         for(int i=0;i<nums.size();i++){
             if(mx[i]-mn[i]<=k){
-                ans=i;
+                return i;
             }
         }
-        return (ans==INT_MAX)?-1:ans;
+        return -1;
     }
 };
