@@ -85,6 +85,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0112-path-sum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0112-path-sum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -110,8 +112,17 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0112-path-sum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
