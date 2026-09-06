@@ -26,10 +26,8 @@ public:
             root->left=root->right;
             root->right=temp;
         }
-        TreeNode* l= invertTree(root->left);
-        TreeNode* r= invertTree(root->right);
-        root->left=l;
-        root->right=r;
+        root->left= invertTree(root->left);
+        root->right= invertTree(root->right);
         return root;
     }
 };
