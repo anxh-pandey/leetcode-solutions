@@ -21,7 +21,7 @@ public:
     bool sol(TreeNode* root,TreeNode* s){
         if(root==NULL) return false;
         if(root->val==s->val){
-            if(asol(root,s)==true){
+            if(asol(root,s)){
                 return true;
             }
         }
