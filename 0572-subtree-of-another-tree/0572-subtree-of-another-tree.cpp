@@ -11,23 +11,20 @@
  */
 class Solution {
 public:
-    bool asol(TreeNode* root,TreeNode* s){
+    bool sol(TreeNode* root,TreeNode* s){
         if(root==NULL && s==NULL) return true;
         if(root==NULL || s==NULL) return false;
         if(root->val!=s->val) return false;
-        return asol(root->left,s->left) && asol(root->right,s->right);
+        return sol(root->left,s->left) && sol(root->right,s->right);
 
     }
-    bool sol(TreeNode* root,TreeNode* s){
+    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if(root==NULL) return false;
-        if(root->val==s->val){
-            if(asol(root,s)){
+        if(root->val==subRoot->val){
+            if(sol(root,subRoot)){
                 return true;
             }
         }
-        return sol(root->left,s) || sol(root->right,s);
-    }
-    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        return sol(root,subRoot);
+        return isSubtree(root->left,subRoot) || isSubtree(root->right,subRoot);
     }
 };
