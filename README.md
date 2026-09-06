@@ -75,4 +75,20 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0050-powx-n) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
