@@ -48,6 +48,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0257-binary-tree-paths](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -82,6 +83,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0101-symmetric-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0101-symmetric-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -103,4 +106,9 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0101-symmetric-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
