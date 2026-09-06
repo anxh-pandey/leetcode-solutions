@@ -11,24 +11,18 @@
  */
 class Solution {
 public:
-    bool hasPathSum(TreeNode* root, int targetSum) {
+    bool sol(TreeNode* root,int k,int sum){
         if(root==NULL) return false;
-        stack<pair<TreeNode*,int>> st;
-        st.push({root,root->val});
-        while(!st.empty()){
-            TreeNode* temp=st.top().first;
-            int sum=st.top().second;
-            st.pop();
-            if(temp->left==NULL && temp->right==NULL){
-                if(sum==targetSum) return true;
+        sum+=root->val;
+        if(root->left==NULL && root->right==NULL){
+            if(sum==k){
+                return true;
             }
-            if(temp->left!=NULL){
-                st.push({temp->left,sum+temp->left->val});
-            }
-            if(temp->right!=NULL){
-            st.push({temp->right,sum+temp->right->val});
-            }
+            return false;
         }
-        return false;
+        return sol(root->left,k,sum) || sol(root->right,k,sum);
+    }
+    bool hasPathSum(TreeNode* root, int targetSum) {
+        return sol(root,targetSum,0);
     }
 };
