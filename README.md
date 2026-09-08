@@ -8,6 +8,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0066-plus-one](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -34,6 +35,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0344-reverse-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -71,6 +73,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -136,12 +139,18 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0268-missing-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
