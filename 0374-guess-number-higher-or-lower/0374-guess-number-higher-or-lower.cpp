@@ -10,11 +10,10 @@
 class Solution {
 public:
     int sol(int l, int r,int mid){
-        int a= guess(mid);
-        if(a==0){
+        if(guess(mid)==0){
             return mid;
         }
-        else if(a==1){
+        else if(guess(mid)==1){
             return sol(mid+1,r,l+(r-l)/2);
         }
         else{
