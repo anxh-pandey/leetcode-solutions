@@ -12,6 +12,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0287-find-the-duplicate-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0705-design-hashset) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -129,6 +130,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0112-path-sum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -223,4 +226,24 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## 0-1 BFS
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
