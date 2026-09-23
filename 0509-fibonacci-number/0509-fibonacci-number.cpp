@@ -1,14 +1,14 @@
 class Solution {
 public:
-    int sol(int n,vector<int>& dp){
-        if(n<=1){
-            return n;
-        }
-        if(dp[n]!=-1) return dp[n];
-        return dp[n]=sol(n-1,dp) + sol(n-2,dp);
-    }
     int fib(int n) {
-        vector<int> dp(n+1,-1);
-        return sol(n,dp);
+        int p=1,p2=0;
+        int ans=0;
+        if(n<=1) return n;
+        for(int i=2;i<n+1;i++){
+            ans=p+p2;
+            p2=p;
+            p=ans;
+        }
+        return ans;
     }
 };
