@@ -40,6 +40,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -64,6 +65,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0257-binary-tree-paths](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -71,6 +73,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0509-fibonacci-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Stack
@@ -259,4 +262,8 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0409-longest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
