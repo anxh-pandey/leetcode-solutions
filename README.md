@@ -23,6 +23,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0050-powx-n](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -74,6 +75,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0509-fibonacci-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Stack
@@ -257,6 +259,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
