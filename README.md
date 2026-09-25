@@ -13,6 +13,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0496-next-greater-element-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0705-design-hashset) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -57,6 +58,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0409-longest-palindrome](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0705-design-hashset) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -265,8 +267,13 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 <!---LeetCode Topics End-->
