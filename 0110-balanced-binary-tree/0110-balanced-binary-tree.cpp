@@ -11,18 +11,18 @@
  */
 class Solution {
 public:
-    int maxDepth(TreeNode* root){
+    int maxdepth(TreeNode* root){
         if(root==NULL) return 0;
-        int a=maxDepth(root->left);
-        int b=maxDepth(root->right);
-        return 1+max(a,b);
+        int l=maxdepth(root->left);
+        int r=maxdepth(root->right);
+        return 1+max(l,r);
     }
     bool isBalanced(TreeNode* root) {
-        if(root==NULL) return true;
-        int a=maxDepth(root->left);
-        int b=maxDepth(root->right);
-        if(!isBalanced(root->left) || !isBalanced(root->right)) return false;
-        if(abs(a-b)>1) return false;
-        return true;
+     if(root==NULL) return true;
+     int a=maxdepth(root->left);
+     int b=maxdepth(root->right);
+     if(!isBalanced(root->left) || !isBalanced(root->right)) return false;
+     if(abs(a-b)>1) return false;
+     return true;   
     }
 };
