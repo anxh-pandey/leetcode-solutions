@@ -13,6 +13,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0496-next-greater-element-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0705-design-hashset) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -262,6 +263,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0787-cheapest-flights-within-k-stops](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -311,4 +313,24 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
