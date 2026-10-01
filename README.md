@@ -7,6 +7,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0066-plus-one) |
+| [0152-maximum-product-subarray](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0239-sliding-window-maximum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -83,6 +84,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0005-longest-palindromic-substring](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0152-maximum-product-subarray](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
