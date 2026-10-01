@@ -31,7 +31,7 @@ public:
         vector<pair<int,pair<int,int>>> ab;
         for(int i=0;i<points.size();i++){
             ab.push_back({0,{i,i}});
-            for(int j=0;j<points.size();j++){
+            for(int j=i+1;j<points.size();j++){
                 int x=abs(points[i][0]-points[j][0]);
                 int y=abs(points[i][1]-points[j][1]);
                 int a=x+y;
