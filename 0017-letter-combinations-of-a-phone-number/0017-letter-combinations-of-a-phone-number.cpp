@@ -5,18 +5,7 @@ public:
             ans.push_back(a);
             return;
         }
-        if(d[i]=='2'){
-            a+=static_cast<char>(97);
-            sol(d,i+1,a,ans);
-            a.pop_back();
-            a+=static_cast<char>(98);
-            sol(d,i+1,a,ans);
-            a.pop_back();
-            a+=static_cast<char>(99);
-            sol(d,i+1,a,ans);
-            a.pop_back();
-        }
-        else if(d[i]=='7'){
+        if(d[i]=='7'){
             a+=static_cast<char>((d[i]-'2')*3+97);
             sol(d,i+1,a,ans);
             a.pop_back();
