@@ -14,8 +14,8 @@ public:
         sol(n,a,l,r+1,ans);
     }
     vector<string> generateParenthesis(int n) {
-         vector<string> ans;
-         sol(n,"",0,0,ans);
-         return ans;
+        vector<string> ans;
+        sol(n,"(",1,0,ans);
+        return ans;
     }
 };
