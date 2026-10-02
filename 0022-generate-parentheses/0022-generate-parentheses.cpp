@@ -8,17 +8,14 @@ public:
         }
         if(a.size()==n*2) return;
         a+="(";
-        l+=1;
-        sol(n,a,l,r,ans);
+        sol(n,a,l+1,r,ans);
         a.pop_back();
-        l-=1;
         a+=")";
-        r+=1;
-        sol(n,a,l,r,ans);
+        sol(n,a,l,r+1,ans);
     }
     vector<string> generateParenthesis(int n) {
          vector<string> ans;
-         sol(n,"(",1,0,ans);
+         sol(n,"",0,0,ans);
          return ans;
     }
 };
