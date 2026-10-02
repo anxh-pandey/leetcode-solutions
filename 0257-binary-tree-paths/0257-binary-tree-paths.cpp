@@ -11,12 +11,11 @@
  */
 class Solution {
 public:
-    void sol(TreeNode* root,string a,vector<string>& ans){
+    void sol(TreeNode* root,string a,vector<string> &ans){
         if(root==NULL) return;
         a+=to_string(root->val);
         if(root->left==NULL && root->right==NULL){
             ans.push_back(a);
-            return;
         }
         a+="->";
         sol(root->left,a,ans);
