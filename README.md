@@ -194,6 +194,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## String Matching
