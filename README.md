@@ -14,6 +14,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0287-find-the-duplicate-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0705-design-hashset) |
+| [1004-max-consecutive-ones-iii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -70,6 +71,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
@@ -111,6 +113,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Recursion
@@ -208,6 +211,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0268-missing-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [1004-max-consecutive-ones-iii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
