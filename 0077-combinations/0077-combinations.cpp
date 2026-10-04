@@ -5,7 +5,9 @@ public:
             ans.push_back(a);
             return;
         }
-        if(i>n) return;
+        if(i>n){
+            return;
+        }
         a.push_back(i);
         sol(n,k,ans,a,i+1);
         a.pop_back();
