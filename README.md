@@ -84,6 +84,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0257-binary-tree-paths](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0856-score-of-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0020-valid-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0856-score-of-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -358,4 +360,5 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0020-valid-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
