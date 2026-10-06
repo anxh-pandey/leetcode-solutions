@@ -17,7 +17,7 @@ public:
                 }
             }
         }
-        if(!st.empty()) ans+=st.size();
+        ans+=st.size();
         return ans;
     }
 };
