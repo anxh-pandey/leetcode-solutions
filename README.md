@@ -85,6 +85,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0344-reverse-string](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0856-score-of-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0020-valid-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Manacher
 |  |
@@ -361,4 +364,5 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0020-valid-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
