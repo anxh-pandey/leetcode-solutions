@@ -9,8 +9,7 @@ public:
         while(r<s.size()){
             a+=s[r];
             if(r-l+1==10){
-                if(us.contains(a) && !uus.contains(a)){
-                    st.push_back(a);
+                if(us.contains(a)){
                     uus.insert(a);
                 }
                 else{
@@ -22,6 +21,9 @@ public:
                 l+=1;
             }
             r+=1;
+        }
+        for(auto x: uus){
+            st.push_back(x);
         }
         return st;
     }
