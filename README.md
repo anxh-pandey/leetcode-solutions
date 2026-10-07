@@ -61,6 +61,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0141-linked-list-cycle](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0187-repeated-dna-sequences](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -70,6 +71,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -81,6 +83,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0020-valid-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0187-repeated-dna-sequences](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -208,6 +211,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Binary Search
@@ -221,6 +225,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0078-subsets) |
+| [0187-repeated-dna-sequences](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -365,4 +370,16 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0022-generate-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
