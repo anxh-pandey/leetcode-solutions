@@ -90,6 +90,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0409-longest-palindrome](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0856-score-of-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Dynamic Programming
 |  |
@@ -109,6 +110,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0496-next-greater-element-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0022-generate-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Rolling Hash
 |  |
 | ------- |
