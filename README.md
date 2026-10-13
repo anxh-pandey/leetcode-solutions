@@ -57,6 +57,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -71,6 +72,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -79,6 +81,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0020-valid-parentheses) |
