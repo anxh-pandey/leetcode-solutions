@@ -32,6 +32,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0268-missing-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [2235-add-two-integers](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
