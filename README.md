@@ -21,6 +21,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [1584-min-cost-to-connect-all-points](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -35,6 +36,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0509-fibonacci-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [2235-add-two-integers](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2965-find-missing-and-repeated-values](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3870-count-commas-in-range](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -73,6 +75,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0705-design-hashset](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0705-design-hashset) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anxh-pandey/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Shortest Path
 |  |
 | ------- |
