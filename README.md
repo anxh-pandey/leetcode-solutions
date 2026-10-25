@@ -9,6 +9,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0066-plus-one](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0169-majority-element) |
@@ -112,6 +113,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0022-generate-parentheses](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
