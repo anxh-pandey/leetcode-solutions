@@ -9,6 +9,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0066-plus-one](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -64,6 +65,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0141-linked-list-cycle](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -245,6 +247,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0268-missing-number) |
 ## Pigeonhole Principle
 |  |
@@ -345,6 +348,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0169-majority-element) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Bellman–Ford Algorithm
 |  |
@@ -401,6 +405,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
 |  |
@@ -414,4 +419,8 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
