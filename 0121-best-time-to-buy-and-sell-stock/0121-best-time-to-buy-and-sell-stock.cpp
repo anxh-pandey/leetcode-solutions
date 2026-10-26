@@ -1,8 +1,8 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int ans=0,mxx=0;
         vector<int> mx(prices.size());
+        int mxx=0,ans=0;
         for(int i=prices.size()-1;i>=0;i--){
             mxx=max(prices[i],mxx);
             mx[i]=mxx;
