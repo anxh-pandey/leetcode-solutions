@@ -26,6 +26,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -41,6 +42,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0836-rectangle-overlap](https://github.com/anxh-pandey/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [2235-add-two-integers](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/anxh-pandey/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anxh-pandey/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
